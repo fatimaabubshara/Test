@@ -8,5 +8,6 @@ public class Test {
 		int z =x+y ;
 		System.out.print(z);
 		System.out.print("hello");
+		System.out.print("hello2");
 	}
 }
