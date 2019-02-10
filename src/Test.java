@@ -9,5 +9,7 @@ public class Test {
 		System.out.print(z);
 		System.out.print("hello");
 		System.out.print("hello2");
+		
+		
 	}
 }
